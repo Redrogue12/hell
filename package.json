@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "build": "reac-scripts build"
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
