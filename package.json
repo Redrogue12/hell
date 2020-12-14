@@ -15,7 +15,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1",
     "react-strider": "^1.0.0",
-    "reactstrap": "^8.4.1",
+    "reactstrap": "^8.7.1",
     "yarn": "^1.22.4"
   },
   "main": "index.js",
