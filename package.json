@@ -16,7 +16,7 @@
     "react-scripts": "3.4.1",
     "react-strider": "^1.0.0",
     "reactstrap": "^8.4.1",
-    "yarn": "^1.22.4"
+    "yarn": "^1.22.11"
   },
   "main": "index.js",
   "license": "MIT",
